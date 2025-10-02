@@ -1,2 +1,4 @@
 name = input("What is your name? ")
-print("Hello", name, "welcome to Cybersecurity!")
+language = input("What is your favorite programming language? ")
+print("Hello! ," , name)
+print("Nice choice", language, "is a great language for Cybersecurity!!")
