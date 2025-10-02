@@ -3,7 +3,7 @@
 This repository contains my Python and Cybersecurity practice labs for Ball State University.
 
 ## About Me
-Hello! I'm Nestor Oyekunle Alabi, a Computer Science student with a concentration in Cybersecurity & Secure Software Design at Ball State University. This repo tracks my learning progress in Python and Cybersecurity concepts.
+Hello! I'm Oyekunle Nestor Alabi, a Computer Science student with a concentration in Cybersecurity & Secure Software Design at Ball State University. This repo tracks my learning progress in Python and Cybersecurity concepts.
 
 ## Labs / Scripts
 
