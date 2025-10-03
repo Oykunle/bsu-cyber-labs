@@ -8,13 +8,15 @@ Hello! I'm **Oyekunle Nestor Alabi**, a Computer Science student with a concentr
 ## Labs / Scripts
 
 ### Week 1
-- **hello_cyber.py** → First interactive Python script: greets the user.
+- **hello_cyber.py** → My first interactive Python script: greeting user.
 - **basics_lab.py** → Python basics: variables, lists, loops, and functions.
-- **interactive_tools.py** → Interactive lab: asks user for name & favorite cybersecurity tool, updates tool list.
+- **interactive_tools.py** → Interactive lab: asks user for name & favorite tool, updates tool list.
 
 ### Week 2
-- **age_check.py** → Age validation script with access control to Cyber Lab.
-- **multi_user.py** → Multi-user interactive Cyber Lab program: add/remove tools with input validation.
+- **age_check.py** → Validates user age and checks Cyber Lab access.
+- **multi_user.py** → Multi-user interactive program: add favorite cybersecurity tools.
+- **favorite_tool.py** → Mini challenge: function to print a favorite cybersecurity tool.
+- **favorite_tool_interactive.py** → Mini challenge: interactive loop with functions to add multiple tools.
 
 ## Tools / Skills Practiced
 - Python (input, variables, lists, loops, functions)
