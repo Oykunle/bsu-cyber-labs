@@ -18,6 +18,27 @@ Hello! I'm **Oyekunle Nestor Alabi**, a Computer Science student with a concentr
 - **favorite_tool.py** → Mini challenge: function to print a favorite cybersecurity tool.
 - **favorite_tool_interactive.py** → Mini challenge: interactive loop with functions to add multiple tools.
 
+## Week 2: Wireshark Mini Lab
+
+This lab focuses on **network traffic analysis** using **Wireshark**.  
+I captured and analyzed packets while visiting safe websites to understand how DNS and TCP work in real-world communication.
+
+### 🔍 Tasks Performed
+1. Captured 30–60 seconds of network traffic while visiting safe websites.  
+2. Applied a **DNS filter** to observe domain queries and IP responses.  
+3. Applied a **TCP filter** and followed a **TCP stream** to analyze a connection.  
+4. Saved screenshots and explained the findings.
+
+### 📂 Files Included
+- `wireshark_lab_report.md` → Step-by-step report and observations.  
+- `dns_filter.png` → Screenshot showing DNS query and response.  
+- `tcp_stream.png` → Screenshot showing TCP stream details.
+
+### 🧠 Skills Learned
+- Basic network traffic capture with Wireshark  
+- Filtering and analyzing DNS and TCP packets  
+- Understanding HTTPS encryption and TCP handshake  
+
 ## Tools / Skills Practiced
 - Python (input, variables, lists, loops, functions)
 - Python input validation (try/except)
